@@ -1,4 +1,4 @@
-<h1>Hello!, I'm Hubert, an <a href="https://linkedin.com/in/hubert-nimala-itprofessional/">IT Professional </a></h1>
+<h1>Hello!, I'm Hubert Nimala, an <a href="https://linkedin.com/in/hubert-nimala-itprofessional/">IT Professional </a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
